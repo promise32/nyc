@@ -1,1 +1,1 @@
-new bill has being Issued
+new bill has being Issued by a new Author!
